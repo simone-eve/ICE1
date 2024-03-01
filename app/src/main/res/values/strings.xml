@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ICE1</string>
+    <string name="hello_world_english">Hello World English</string>
+    <string name="hello_world_french">Hello World French</string>
+    <string name="hello_world_spanish">Hello World Spanish</string>
+    <string name="hello_world_italian">Hello World Italian</string>
+    <string name="hello_world_afrikaans">Hello World Afrikaans</string>
+</resources>
